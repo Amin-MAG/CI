@@ -15,7 +15,7 @@ This repository is for the IUST computational intelligence course. This reposito
 -   [HW II](./Homework-02/CI-HW02-Report.pdf)
 	-   Kohonen
 	-   RBF
--   [HW III](Homework-04/README.md)
+-   [HW III](Homework-03/README.md)
 	-   Hopfield Network
 	-   Fuzzy
 -   [HW IV](Homework-04/README.md)
