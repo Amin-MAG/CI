@@ -1,6 +1,6 @@
 # CI IUST 2021
   
-This repository is for the IUST computational intelligence course. This repository includes projects and assignments.
+This repository was originally for the IUST computational intelligence course. It contains some of my jupyter notebooks related to machine learning.
 
 
 ## Content
